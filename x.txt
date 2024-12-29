@@ -1,2 +1,1 @@
-i am in branch b
-i am forked repo
+i am from forked/new-branch
